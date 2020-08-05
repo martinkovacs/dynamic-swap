@@ -1,7 +1,7 @@
 # Dynamic swap
 This is a really simple script for dynamic swap management on linux.
 
-# Dependecies
+# Dependencies
 
  - bash
  - bc
