@@ -4,8 +4,8 @@ ssd=true
 path=/.swapfiles
 name="swapfile-"
 
-size=$1
-block=$2
+size=128
+block=1M
 
 i=0
 
